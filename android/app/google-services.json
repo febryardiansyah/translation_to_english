@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "15622262675",
+    "firebase_url": "https://gawe-c4fe9.firebaseio.com",
+    "project_id": "gawe-c4fe9",
+    "storage_bucket": "gawe-c4fe9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15622262675:android:ca841c6d58e2e9f62e2266",
+        "android_client_info": {
+          "package_name": "com.example.bottom_bars"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15622262675-7afoov0jq2p6ef775reuvnh0u7rmlc79.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQETZc8iG8UOs0eghVJeTQVHf_fQ_U64c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15622262675-7afoov0jq2p6ef775reuvnh0u7rmlc79.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15622262675:android:52b6c2ebc7b6570f2e2266",
+        "android_client_info": {
+          "package_name": "com.febry.indonesia_english_translation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15622262675-7afoov0jq2p6ef775reuvnh0u7rmlc79.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQETZc8iG8UOs0eghVJeTQVHf_fQ_U64c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15622262675-7afoov0jq2p6ef775reuvnh0u7rmlc79.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15622262675:android:e59b26d64a598ce22e2266",
+        "android_client_info": {
+          "package_name": "com.febry.login_register_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15622262675-7afoov0jq2p6ef775reuvnh0u7rmlc79.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQETZc8iG8UOs0eghVJeTQVHf_fQ_U64c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15622262675-7afoov0jq2p6ef775reuvnh0u7rmlc79.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
