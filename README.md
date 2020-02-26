@@ -16,4 +16,10 @@ Bugs :
 - Forceclose when using camera, use gallery instead
 - App forceclose or stoped working when user cancel pick a picture
 
+Android release :
+i haven't build it yet, i'll add it later
+
+IOS release :
+same as before xD
+
 Maybe i'll add choices to choose dark or light mode later xD
