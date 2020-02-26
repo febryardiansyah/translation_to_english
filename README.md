@@ -1,6 +1,6 @@
 # translation_to_english
 
-this app has 2 options to translate from your language to englih. you can use text or image (from gallery or from camera) just feel free to use :p.
+this app has 2 options to translate from your language to english. you can use text or image (from gallery or from camera) just feel free to use :p.
 anyway, if you have feedback or advices to this app, just tell me on instagram (link on my bio) or discord Febry
 #4750
 
@@ -16,3 +16,4 @@ Bugs :
 - Forceclose when using camera, use gallery instead
 - App forceclose or stoped working when user cancel pick a picture
 
+Maybe i'll add choices to choose dark or light mode later xD
