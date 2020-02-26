@@ -6,7 +6,7 @@ anyway, if you have feedback or advices to this app, just tell me on instagram (
 
 i made this using flutter (dart language) and firebase ML kit by google
 
-Package that i use on this app :
+Packages that i use on this app :
 - translator: ^0.1.4
 - flutter_screenutil: ^1.0.2
 - firebase_ml_vision: ^0.9.3+5
